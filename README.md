@@ -63,6 +63,12 @@ https://www.youtube.com/watch?v=Y9YjThpAlm8&ab_channel=ServiceNowSupport
 [**Pro Code Learning**](https://nowlearning.service-now.com/lxp?id=overview&sys_id=45d691f287c07c50ed3b74c9cebb354d&type=path)   <--- **IMPORTANT**
 
 
+### CI/CD For ServiceNow Resources
+[ServiceNow/devproductivity-guides](https://github.com/ServiceNow/devproductivity-guides/tree/master/pluginsAndIntegrations)
+[ServiceNow/sncicd_githubworkflow](https://github.com/ServiceNow/sncicd_githubworkflow)
+[Marketplace](https://github.com/marketplace?type=actions&query=servicenow)
+
+
 <br/>
 <br/>
 <br/>
