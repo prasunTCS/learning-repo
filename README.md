@@ -57,6 +57,8 @@ https://www.youtube.com/watch?v=OZtm4tgHVo4&ab_channel=ServiceNowSupport
 
 https://www.youtube.com/watch?v=Y9YjThpAlm8&ab_channel=ServiceNowSupport
 
+[**GitHub Guide**](https://developer.servicenow.com/dev.do#!/guides/rome/developer-program/github-guide/github-and-the-developer-site-training-guide-introduction)
+
 
 
 <br/>
