@@ -60,6 +60,8 @@ https://www.youtube.com/watch?v=Y9YjThpAlm8&ab_channel=ServiceNowSupport
 [**GitHub Guide**](https://developer.servicenow.com/dev.do#!/guides/rome/developer-program/github-guide/github-and-the-developer-site-training-guide-introduction)
 
 
+[**Pro Code Learning**](https://nowlearning.service-now.com/lxp?id=overview&sys_id=45d691f287c07c50ed3b74c9cebb354d&type=path)   <--- **IMPORTANT**
+
 
 <br/>
 <br/>
