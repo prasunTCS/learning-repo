@@ -18,6 +18,8 @@ https://tcsglobal.udemy.com/course/az900-azure-tests/learn/quiz/4700490?learning
 
 
 
+<br/>
+<br/>
 
 
 
@@ -44,6 +46,28 @@ https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2021/
 https://github.com/ServiceNowDevProgram/aes-app-examples
 
 https://github.com/Irston/AppEngineStudio-Server-Carbon-Profile
+
+https://nowlearning.service-now.com/lxp?id=overview&sys_id=0e6efc161b7fe010a5e699b1b24bcb96&type=course
+
+https://nowlearning.service-now.com/lxp?id=overview&sys_id=f9de7c561b7fe010a5e699b1b24bcbb2&type=course
+
+https://nowlearning.service-now.com/lxp?id=overview&sys_id=214f78961b7fe010a5e699b1b24bcb7f&type=course
+
+https://www.youtube.com/watch?v=OZtm4tgHVo4&ab_channel=ServiceNowSupport
+
+https://www.youtube.com/watch?v=Y9YjThpAlm8&ab_channel=ServiceNowSupport
+
+
+
+<br/>
+<br/>
+<br/>
+
+# Git/DevOps Resources
+
+https://tcsglobal.udemy.com/course/git-github-practical-guide/
+https://www.youtube.com/watch?v=8JJ101D3knE&ab_channel=ProgrammingwithMosh
+
 
 
 
