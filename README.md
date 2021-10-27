@@ -53,25 +53,28 @@ https://nowlearning.service-now.com/lxp?id=overview&sys_id=f9de7c561b7fe010a5e69
 
 https://nowlearning.service-now.com/lxp?id=overview&sys_id=214f78961b7fe010a5e699b1b24bcb7f&type=course
 
-https://www.youtube.com/watch?v=OZtm4tgHVo4&ab_channel=ServiceNowSupport
+[GitHub Actions](https://www.youtube.com/watch?v=OZtm4tgHVo4&ab_channel=ServiceNowSupport)
 
-https://www.youtube.com/watch?v=Y9YjThpAlm8&ab_channel=ServiceNowSupport
+[GitLab CI/CD](https://www.youtube.com/watch?v=Y9YjThpAlm8&ab_channel=ServiceNowSupport)
 
 [**GitHub Guide**](https://developer.servicenow.com/dev.do#!/guides/rome/developer-program/github-guide/github-and-the-developer-site-training-guide-introduction)
 
 
 [**Pro Code Learning**](https://nowlearning.service-now.com/lxp?id=overview&sys_id=45d691f287c07c50ed3b74c9cebb354d&type=path)   <--- **IMPORTANT**
-
+<br/><br/>
 
 ### CI/CD For ServiceNow Resources
 [ServiceNow/devproductivity-guides](https://github.com/ServiceNow/devproductivity-guides/tree/master/pluginsAndIntegrations)
+
 [ServiceNow/sncicd_githubworkflow](https://github.com/ServiceNow/sncicd_githubworkflow)
+
 [Marketplace](https://github.com/marketplace?type=actions&query=servicenow)
 
 
 <br/>
 <br/>
 <br/>
+
 
 # Git/DevOps Resources
 
