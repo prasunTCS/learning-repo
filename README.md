@@ -28,6 +28,13 @@ https://tcsglobal.udemy.com/course/az900-azure-tests/learn/quiz/4700490?learning
 ## Human Resource
 https://nowlearning.service-now.com/lxp?id=overview&sys_id=069a7ef1db73945030c91fdc13961958&type=course
 
+https://www.youtube.com/watch?v=Bvy9aSaGBgw&ab_channel=ServiceNow-NowCommunity
+
+[**Human Resource(HR) Academy**](https://community.servicenow.com/community?id=community_article&sys_id=49315446dbea2010d5c4d9d96896194b)
+[**Employee Center Resources**](https://community.servicenow.com/community?id=community_forum&sys_id=dd4ba1e7db0e3810bb4a474d1396192c)
+[**Employee Center Academy**](https://community.servicenow.com/community?id=community_article&sys_id=3cc2d0101b6b7050abbcece7624bcbd3)
+
+
 
 
 ## CSM
@@ -82,6 +89,7 @@ https://tcsglobal.udemy.com/course/git-github-practical-guide/
 
 https://www.youtube.com/watch?v=8JJ101D3knE&ab_channel=ProgrammingwithMosh
 
+https://tcsglobal.udemy.com/course/github-ultimate/learn/lecture/4731452#overview
 
 
 
