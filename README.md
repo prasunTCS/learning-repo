@@ -68,8 +68,9 @@ https://nowlearning.service-now.com/lxp?id=overview&sys_id=214f78961b7fe010a5e69
 
 [**GitHub Guide**](https://developer.servicenow.com/dev.do#!/guides/rome/developer-program/github-guide/github-and-the-developer-site-training-guide-introduction)
 
+[**Application Developer Core Skills**](https://nowlearning.service-now.com/lxp?id=overview&sys_id=2374113e87807c50ed3b74c9cebb3525&type=path)   <--- **IMPORTANT**
 
-[**Pro Code Learning**](https://nowlearning.service-now.com/lxp?id=overview&sys_id=45d691f287c07c50ed3b74c9cebb354d&type=path)   <--- **IMPORTANT**
+[**Application Developer Advanced Skills**](https://nowlearning.service-now.com/lxp?id=overview&sys_id=45d691f287c07c50ed3b74c9cebb354d&type=path)   <--- **IMPORTANT**
 <br/><br/>
 
 ### CI/CD For ServiceNow Resources
