@@ -71,6 +71,9 @@ https://github.com/Irston/AppEngineStudio-Server-Carbon-Profile
 [**Application Developer Core Skills**](https://nowlearning.service-now.com/lxp?id=overview&sys_id=2374113e87807c50ed3b74c9cebb3525&type=path)   <--- **IMPORTANT**
 
 [**Application Developer Advanced Skills**](https://nowlearning.service-now.com/lxp?id=overview&sys_id=45d691f287c07c50ed3b74c9cebb354d&type=path)   <--- **IMPORTANT**
+
+[**UI Builder Resources Blog**](https://developer.servicenow.com/blog.do?p=/post/quebec-ui-builder-resources/)
+
 <br/><br/>
 
 ### CI/CD For ServiceNow Resources
