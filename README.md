@@ -76,6 +76,8 @@ https://github.com/Irston/AppEngineStudio-Server-Carbon-Profile
 
 [**UI Builder Data Resource**](https://developer.servicenow.com/blog.do?p=/post/quebec-ui-builder-data-resources/)
 
+[**Killer Portal Experience**](https://nowlearning.service-now.com/lxp?id=overview&sys_id=157641961bbfe010a5e699b1b24bcb94&type=course)
+
 
 <br/><br/>
 
