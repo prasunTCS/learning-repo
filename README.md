@@ -74,6 +74,8 @@ https://github.com/Irston/AppEngineStudio-Server-Carbon-Profile
 
 [**UI Builder Resources Blog**](https://developer.servicenow.com/blog.do?p=/post/quebec-ui-builder-resources/)
 
+[**External Component Development - CLI**]](https://nowlearning.service-now.com/lxp?id=overview&sys_id=38717dd9db7320d0785e2a591396199d&type=course)
+
 <br/><br/>
 
 ### CI/CD For ServiceNow Resources
