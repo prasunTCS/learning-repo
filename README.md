@@ -74,6 +74,8 @@ https://github.com/Irston/AppEngineStudio-Server-Carbon-Profile
 
 [**UI Builder Resources Blog**](https://developer.servicenow.com/blog.do?p=/post/quebec-ui-builder-resources/)
 
+[**UI Builder Data Resource**](https://developer.servicenow.com/blog.do?p=/post/quebec-ui-builder-data-resources/)
+
 
 <br/><br/>
 
